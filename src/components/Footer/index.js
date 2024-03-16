@@ -88,7 +88,7 @@ function Footer() {
   return (
     <FooterContainer>
       <FooterWrapper>
-        <Logo>Aman Singh</Logo>
+        <Logo>Vishal Rai</Logo>
         <Nav>
           <NavLink href="#about">About</NavLink>
           <NavLink href="#skills">Skills</NavLink>
@@ -103,7 +103,7 @@ function Footer() {
           <SocialMediaIcon href={Bio.insta} target="display"><InstagramIcon /></SocialMediaIcon>
         </SocialMediaIcons>
         <Copyright>
-          &copy; 2024 Aman Singh. All rights reserved.
+          &copy; 2024 Vishal Rai. All rights reserved.
         </Copyright>
 
       </FooterWrapper>
